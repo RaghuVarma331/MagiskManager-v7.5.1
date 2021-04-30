@@ -1,0 +1,18 @@
+{
+  "app": {
+    "version": "7.5.1",
+    "versionCode": "267",
+    "link": "https://github.com/RaghuVarma331/MagiskManager-v7.5.1/raw/master/MagiskManager-v7.5.1.apk",
+    "note": "https://raw.githubusercontent.com/topjohnwu/Magisk/7db523071d662dcc8eb187e3cbae141c716ba045/app/src/main/res/raw/changelog.md"
+  },
+  "uninstaller": {
+    "link": "https://github.com/RaghuVarma331/MagiskManager-v7.5.1/raw/master/Magisk-uninstaller-20200110.zip"
+  },
+  "magisk": {
+    "version": "20.299",
+    "versionCode": "20299",
+    "link": "https://github.com/RaghuVarma331/MagiskManager-v7.5.1/raw/master/Magisk-v20.3.zip",
+    "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/4f33b2656fd9ddc27fc7f9be4e83a747084ca908/notes.md",
+    "md5": "088fb6545e7042a4939bda7d21423b8b"
+  }
+}
